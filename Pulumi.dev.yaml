@@ -1,0 +1,4 @@
+config:
+  gcp:project: vertex-460809
+  gcp:region: us-central1
+  streamlit-cloudrun:app-name: streamlit-app
